@@ -1,4 +1,4 @@
-# To build
+# To Build
 Use config --> x86 : Ultimate
 # Built
 The built files will be on "bin/32/Ultimate"
